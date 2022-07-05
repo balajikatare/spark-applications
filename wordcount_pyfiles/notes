@@ -1,0 +1,13 @@
+To use installa the dependancies we need to follow the following steps.
+
+1. First create a folder inside the project
+For example: wcdependancies
+
+2. Now iinstall the dependancies
+
+$ python3 -m pip install pandas -t wcdependancies
+
+3. Build the .zip file s
+
+$ cd wcdependancies
+wcdependancies $ zip -r wcdependancies.zip .
