@@ -1,0 +1,4 @@
+{
+"wordcount.input.dir" : "/public/randomtextwriter",
+"wordcount.output.dir" : "wordcount"
+}
